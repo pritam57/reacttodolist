@@ -1,0 +1,76 @@
+body{
+    position: absolute;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aquamarine;
+  }
+  .App{
+    height: 645px;
+    width: 600px;
+    border: 6px solid red;
+   margin-left: 400px;
+   border-radius: 20px;
+  }
+  
+  .Appp{
+    color: chocolate;
+    background-color: aquamarine;
+    font-size: 40px;
+    font-weight: 500;
+    align-items: center;
+    text-align: center;
+  }
+  .input{
+    align-items: center;
+    text-align: center;
+  }
+  input{
+    height: 30px;
+    width: 350px;
+    border: none;
+    text-decoration: none;
+  }
+  button{
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+    margin-left: 10px;
+    font-size: larger;
+    color: chocolate;
+    border: 2px solid lightcoral;
+  }
+  button:hover{
+    background-color: green;
+  }
+  .ul{
+    color:orange ;
+    font-size: larger;
+    font-weight: bolder;
+    font-size: 22px;
+    text-decoration: none;
+  }
+  .remove{
+  
+    font-size: large;
+  height:30px;
+  width:30px;
+  border-radius: 100px;
+  border: 2px solid lightcoral;
+  margin-top: 10px;
+  }
+  
+  .remove:hover{
+    background-color: red;
+  }
+  li{
+   margin-left: 50px;
+   margin-top: 10px;
+  }
+  .da{
+    display: flex;
+    vertical-align: baseline;
+  }
